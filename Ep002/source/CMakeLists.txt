@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.31)
+cmake_minimum_required(VERSION 3.22)
 project(HelloApp
          VERSION 0.0.1
          DESCRIPTION "The leading Hello World command"
